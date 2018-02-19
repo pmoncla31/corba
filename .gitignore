@@ -1,0 +1,7 @@
+**/.idea/**
+**/target/**
+**/org.eclipse*
+
+**/.classpath
+**/.project
+
